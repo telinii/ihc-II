@@ -1,4 +1,4 @@
-# IHC II — Focus on UX Design and Product Discovery
+# HCI II — Human-Computer Interaction: Focus on UX Design and Product Discovery
 
 > **Date:** August 5th, 2026
 
